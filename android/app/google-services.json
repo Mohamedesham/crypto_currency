@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146942803682",
+    "project_id": "cryptocurrency-f4472",
+    "storage_bucket": "cryptocurrency-f4472.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146942803682:android:4cc2f3382a7248aeaa68bb",
+        "android_client_info": {
+          "package_name": "com.MH.Cryptocurrency.crypto_currency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146942803682-24msgsaj3913352ncnl8jjshmeav24mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZrcfA2egFqX7Sd-vFpfmePUx7ygI8CeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146942803682-24msgsaj3913352ncnl8jjshmeav24mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
